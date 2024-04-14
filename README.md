@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pavankumar kondapaneni</h1>
+<h1 align="center">Hi 👋, I'm Pavankumar kondapaneni</h1>
 <h3 align="center">A passionate (AI-ENABLED full stack developer)🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar1150&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1150" /> </p>
