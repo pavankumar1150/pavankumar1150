@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavankumar kondapaneni</h1>
 <h3 align="center">A passionate (AI-ENABLED full stack developer)🙂</h3>
-<img align="right" src="[https://example.com/myimage.png](https://hakin9.org/wp-content/uploads/2022/05/programmer_04__Converted__generated.jpg)" alt="coding" width="400" >
+<!-- <img align="right" src="[https://example.com/myimage.png](https://hakin9.org/wp-content/uploads/2022/05/programmer_04__Converted__generated.jpg)" alt="coding" width="400" > -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar1150&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar1150" /> </p>
 
